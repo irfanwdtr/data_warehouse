@@ -1,0 +1,25 @@
+tanggal,toko,kota,produk,kategori,sales,customer,qty,harga
+2024-01-01,Toko A,Jakarta,Pensil,ATK,Andi,C001,10,2000
+2024-01-01,Toko A,Jakarta,Buku,ATK,Andi,C002,5,5000
+2024-01-02,Toko B,Bandung,Pulpen,ATK,Budi,C003,7,3000
+2024-01-02,Toko A,Jakarta,Buku,ATK,Andi,C001,2,5000
+2024-01-03,Toko C,Surabaya,Pensil,ATK,Citra,C004,12,2000
+2024-01-03,Toko C,Surabaya,Spidol,ATK,Citra,C005,6,8000
+2024-01-04,Toko A,Jakarta,Pulpen,ATK,Andi,C006,9,3000
+2024-01-04,Toko B,Bandung,Buku,ATK,Budi,C003,4,5000
+2024-01-05,Toko D,Medan,Pensil,ATK,Dedi,C007,20,2000
+2024-01-05,Toko D,Medan,Buku,ATK,Dedi,C008,10,5000
+2024-01-06,Toko B,Bandung,Spidol,ATK,Budi,C009,3,8000
+2024-01-06,Toko A,Jakarta,Penghapus,ATK,Andi,C002,15,1500
+2024-01-07,Toko C,Surabaya,Buku,ATK,Citra,C004,7,5000
+2024-01-07,Toko C,Surabaya,Pulpen,ATK,Citra,C010,11,3000
+2024-01-08,Toko E,Yogyakarta,Pensil,ATK,Eka,C011,8,2000
+2024-01-08,Toko E,Yogyakarta,Buku,ATK,Eka,C012,6,5000
+2024-01-09,Toko B,Bandung,Penghapus,ATK,Budi,C003,14,1500
+2024-01-09,Toko D,Medan,Spidol,ATK,Dedi,C013,5,8000
+2024-01-10,Toko A,Jakarta,Buku,ATK,Andi,C014,3,5000
+2024-01-10,Toko A,Jakarta,Pensil,ATK,Andi,C001,6,2000
+2024-01-11,Toko E,Yogyakarta,Pulpen,ATK,Eka,C015,10,3000
+2024-01-11,Toko C,Surabaya,Penghapus,ATK,Citra,C016,18,1500
+2024-01-12,Toko B,Bandung,Pensil,ATK,Budi,C017,9,2000
+2024-01-12,Toko D,Medan,Buku,ATK,Dedi,C018,4,5000
